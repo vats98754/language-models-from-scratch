@@ -1,0 +1,1 @@
+# Init for inference module
